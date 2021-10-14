@@ -1,0 +1,276 @@
+Request a list of operating system permissions
+
+In order to ensure the realization of game functions and the purpose of safe and stable operation, we may apply for or use the relevant permissions of the operating system;
+
+In order to protect your right to know, we use the following list to display the relevant operating system permissions we may apply for and use, and you can manage the relevant permissions according to your actual needs;
+
+According to product upgrades, the types and purposes of application and use permissions may change. We will adjust the list according to these changes in a timely manner to ensure that you are informed about the application and use of permissions in a timely manner;
+
+Please be aware that we may also use third-party SDKs for our business and game functions and security needs, and these third parties may also apply for or use relevant operating system permissions;
+
+In the process of using game products, you may use H5 pages or small programs developed by third parties. These third-party plug-ins or small programs may also apply for or use relevant operating system permissions as necessary for business functions.
+
+Android:?
+
+Permission name: READ_EXTERNAL_STORAGE
+
+Permission function description: Read the external memory provides the function of reading the data in the storage space of the mobile phone, allowing the App to read the stored pictures, files and other content.
+
+Use scenario or purpose: Mainly used to help you publish information, record crash log information (if any) and other functions locally
+
+Permission name: WRITE_EXTERNAL_STORAGE
+
+Permission function description: write to external storage to provide write to external storage function
+
+Use scenario or purpose: Allow App to write/download/save/modify/delete information such as pictures, files, crash logs, etc.
+
+Permission name: READ_PHONE_STATE
+
+Permission function description: Read phone status (device IMSI/IMEI number) Provides access to mobile phone device identification and other information, please rest assured that this permission cannot monitor or obtain any of your call content and information
+
+Use scenario or purpose: Read the device's call status and identification code, identify the mobile device ID, ensure the operator's network free streaming service, and complete the main functions such as audio and video, information display, account login, security assurance, etc.
+
+This "User Privacy Agreement" (hereinafter referred to as the "Agreement") is used by you (hereinafter referred to as the "User") and the company (hereinafter referred to as "us") to provide mobile customers with us in their and/or their affiliates. The products and services provided by the terminal (including the mobile clients we provide and the game services and other network services we are currently providing and may provide to users in the future, collectively referred to as "products and services" below).
+
+When users use our products and services, we have the right to collect and use user-related information within the scope permitted by laws and regulations in accordance with this agreement.
+
+
+Important notice
+
+1. This agreement shall be interpreted and governed in accordance with the laws of the People's Republic of China and exclude the application of all other conflicts of laws. This agreement is concluded in Haidian District, Beijing, and any disputes between users and us should be settled through friendly negotiation. If the negotiation cannot be resolved, either party has the right to submit the dispute to the people's court with jurisdiction in our place for litigation.
+
+2. If the user does not agree to any of the terms of this agreement, he shall not register or (continue) to use any products and services provided by us. Once the user clicks to confirm "agree" (or other words with the same meaning, such as "accept", etc.) to register, start using and/or continue to use our game service, it means that the user has reached an agreement with us and voluntarily accepts this agreement All of the content. After that, the user shall not make any form of defense by not reading/not agreeing to the content of this agreement.
+
+3. Please note that we have the right to modify and update this agreement in due course. Users are requested to check the latest version of this agreement at any time. If the user does not agree with the changed content, the user can choose to stop using our products or services; if the user continues to use our products or services, it means that we agree to our collection, use, and storage in accordance with the revised "User Privacy Agreement" And share user information.
+
+4. We especially remind users to carefully read all the terms of this agreement, especially the content marked in bold font. Such terms should be applied to the maximum extent permitted by Chinese law.
+
+
+1. How to collect and use users' personal information
+
+1.1 Personal information refers to various information recorded electronically or in other ways that can identify a specific natural person alone or in combination with other information or reflect the activities of a specific natural person.
+
+1.2 We will collect users' personal information through the following channels:
+
+     1.2.1 Information proactively provided by users:
+
+     (1) Relevant personal information provided to us by users when registering an account or using our services;
+
+     (2) Information shared by users when using our services;
+
+     (3) Information submitted by users through our customer service or participating in events held by us;
+
+     1.2.2 Shared information about users provided by other parties when using our services;
+
+     1.2.3 Information we proactively obtain. When users use our services, we collect, aggregate, and record log information, location information, device information, payment information, and other information that is permitted to be obtained in accordance with laws, regulations or rules.
+
+     1.2.4 Information we obtain from third-party partners. That is, when a user logs in to use the game or service provided by us using the account of a third-party partner, we obtain the information shared by the user in accordance with the regulations of the third-party partner or the user's authorization.
+
+Please note: This agreement only applies to the services we provide, and does not apply to any third-party services or third-party user information usage rules. We are not responsible for any third-party use of user-provided information. Please read carefully the user agreement or privacy agreement of the third-party partner service.
+
+1.3 We will collect and use the following types of personal information of users based on the following purposes in this agreement. If the user's personal information is used for more than the following purposes, we will separately obtain the user's authorization in an appropriate way.
+
+     1.3.1 Help users complete registration and login.
+
+     Users who register or log in to our services must provide basic information for completing account creation or login, including name, ID number, passport number, mobile phone number, email address, created account name, and password; users register through WeChat or QQ or If you log in, we will also collect the user's WeChat account and QQ number.
+
+     1.3.2 Payment and settlement
+
+     When users pay for related orders, comprehensively judge user account and transaction risks, conduct identity verification, detect and prevent security incidents. We will collect users’ virtual property information during the transaction process, which is limited to transaction records, virtual currency, virtual transactions, and games. Class redemption code, password password, order information.
+
+     1.3.3 Provide products or services to users
+
+     Our collection and use of user personal information is a necessary condition for providing services to users. If relevant information is missing, we will not be able to provide services to users:
+
+    (1) We will collect information uploaded/published by users when using our services, including avatars, names, article content, content posted on forums, photos, and videos, so that we can better provide users with products or services.
+
+    (2) In some of our services, such as player offline activities and delivery of lottery prizes, we may collect the user's name, delivery address, postal code, consignee, contact number, ID number, and passport.
+
+    (3) In order to provide users with more in-demand page display and recommend personalized content, perform user portraits, understand product suitability, and identify abnormal status of accounts, we may collect information about the services used by users and how to use them, and This information is associated, and this information includes:
+
+    Log information: When users use our services, we may automatically collect the user's detailed usage of our services as log information for retention. Including: login account, login time, login address, IP address, user search query content, language used, service failure information, referral URL, user communication account when using our service, communication time and duration.
+
+    Device information: When users use our services, we will receive and record information about the devices used by the users according to the specific permissions granted during software installation and use. Including: device model, operating system version, device resolution, device settings, software and hardware feature information, unique device identifier, battery, signal strength.
+
+    Location information: When users use our services, we may record the location information of the user's device through IP address, GPS, WiFi, base station, address information contained in user accounts, and address information contained in photos shared by others. Including: location information, itinerary information, and location information.
+
+    Please note that separate device information, log information, and location information are information that cannot identify a specific natural person. If we combine this type of non-personal information with other information to identify a specific natural person, or combine it with personal information, during the combined use period, this type of non-personal information will be treated as personal information, unless the user's consent is obtained Or unless otherwise authorized or otherwise provided by laws and regulations, we will anonymize and de-identify this type of personal information.
+
+    (4) Improve the quality of our website and service. We will use our customer service or a certain online/offline user survey. We may collect the user's phone number, birthday, hometown, gender, hobbies, QQ number, WeChat account, email address and other information.
+
+    (5) Other uses. Including: analyzing the activities of the group of users on the site and the social information of the entire user group, conducting research and analysis to help us effectively manage the content of the website.
+
+     1.3.4 Sending information and notifications to users
+
+    (1) In order to provide users with interesting advertisements, information and product information, we may collect user operation information, equipment information, location information when using our services, and other information that users browse or request when using our services. Information and content details, game account transaction information, extract the user’s browsing, behavioral habits and other characteristics, the user understands and agrees that we have the right to send marketing to user groups with the same or similar tags by email, SMS or other methods based on the feature tags Information, provide or promote our products and services of our affiliated companies. If you do not agree to receive this type of information, you can stop receiving it according to the relevant information prompt operation.
+
+    (2) When a certain service is suspended, changed, or terminated for system maintenance, we will issue relevant notices to users.
+
+     1.3.5 Provide users with security
+
+In order to protect the personal and property safety of users and other members of the public from infringement, to better prevent security risks such as phishing websites, fraud, network vulnerabilities, computer viruses, network attacks, and network intrusions, and to more accurately identify violations of laws and regulations or our service-related agreements Rules of the situation:
+
+    (1) We may collect, integrate, and use part of the users' personal common equipment for identity verification, security precautions, fraud monitoring, and archive backup.
+
+    (2) When a user uses our customer service, we may save the user's communication/call records, content, and contact information in order to contact the user or help the user solve the problem, and record the solution and result of the related problem.
+
+    (3) We may collect, use, and integrate user account information, transaction information, device information, log information, and information that our affiliates and partners obtain user authorization or share in accordance with laws to comprehensively determine user accounts and transaction risks, Carry out identity verification, detection and prevention of security incidents, and take necessary recording, auditing, analysis, and disposal measures in accordance with the law.
+
+1.4 Please note:
+
+Some of our services may require users to provide specific personal sensitive information to achieve specific functions. If the user chooses not to provide this type of information, he may not be able to use certain functions in the service normally, but it does not affect the user's use of other functions in the service. If the user actively provides the user's sensitive personal information, it means that the user agrees to us to process the user's sensitive personal information in accordance with the purposes and methods described in this agreement.
+
+After collecting the user’s personal information, we will use technical means to de-identify the data. The de-identified information will not be able to identify the user’s identity. In this case, we have the right to use the de-identified information. The user database is analyzed and used commercially without the need to obtain the user’s consent.
+
+
+2. How to use cookies and similar technologies
+
+We or our affiliates and third-party partners may obtain and use user information through cookies or similar technologies, and store such information as log information.
+
+2.1 Cookies
+
+In order to ensure the normal operation of the website and to help us identify users, as well as to enable users to have a more relaxed visit experience and to recommend content that users may be interested in, we will store a small cookie called Cookie on the user’s computer or mobile device. data file. Cookies usually contain identifiers, site names, and some numbers and characters. With the help of cookies, we can store user preferences and other data and can provide users with simple, easy and personalized network services. We will not use cookies for any purpose other than those described in this agreement. Users can set, manage or delete cookies through a browser or other methods according to their own preferences. Most web browsers have a function to block cookies. But if users do this, they need to change user settings every time they visit our website. To learn more about how to change the browser settings, please visit the relevant settings page of the browser they are using.
+
+2.2 Do Not Track
+
+Some web browsers have a Do Not Track function, which can post Do Not Track requests to the website. Currently, major Internet standards organizations have not established relevant policies to regulate how websites should respond to such requests. But if Do Not Track is enabled in the user's browser, all our websites will respect the user's choice. However, please note that this may affect the experience of using our products and services.
+
+
+3. How to disclose, share, and transfer users' personal information to other parties
+
+3.1 Except as stated in this agreement, user data will not be disclosed and shared to third parties in the form of identifiable specific personal real identity information. Except in the following cases:
+
+    (1) Obtain the user's prior consent/permission;
+
+    (2) Due to the requirements of judicial, administrative and other legal procedures;
+
+    (3) In limited circumstances, we may hire third-party suppliers, consultants or other service providers to provide us with necessary maintenance, support and services, but we should require these third parties to sign necessary terms with us to protect data Security and confidentiality;
+
+    (4) In an emergency, reasonable judgment is to protect the legitimate rights and interests and safety of us, our agents, customers, end users or others;
+
+    (5) We file a lawsuit or arbitration against users in order to protect the legitimate rights and interests of ourselves or other users;
+
+    (6) We are undergoing or planning to carry out major changes such as corporate mergers and acquisitions, reorganizations, sales of all or part of the shares and/or assets, including but not limited to the due diligence process.
+
+3.2 We will not transfer the user's personal information to any company, organization or individual, except in the following cases:
+
+    (1) Transfer with explicit consent: After obtaining the user's explicit consent and within the scope permitted by laws and regulations, we will transfer the user's personal information to other parties;
+
+    (2) With the development of business, we may conduct mergers, acquisitions, asset transfers, bankruptcy liquidation or similar transactions, and user personal information may be transferred as part of such transactions. We will separately inform users of relevant circumstances through push notifications, announcements or other means, and continue to protect users' personal information in accordance with the standards required by laws and regulations or require new managers to continue to protect users' personal information in accordance with this agreement.
+
+3.3 The personal information that is legally collected with the user’s consent is labeled or processed through non-manual automatic decision-making technologies such as information systems and algorithms, and automated decision-making decisions (such as commercial information push, etc.) are made. This behavior constitutes data impossibility. Identification should not be regarded as sharing, transferring or disclosing any personal information of users to any third party.
+
+
+Four, important tips
+
+4.1 Users can share user-related information with friends, family members and other users through our services. For example, text and photos shared publicly by users on our gaming platform. Please note that this may contain sensitive information of users, including personally identifiable information and personal property information; users are requested to carefully consider disclosing sensitive personal information of users.
+
+4.2 Users can control the scope of sharing information through the privacy settings in the service we provide, or delete publicly shared information through the settings in the service or the guidelines we provide. However, please note that this information may still be stored independently by other users or unaffiliated third parties that are not under our control
+
+
+5. How to store personal information
+
+5.1 We will only store the user's personal information for the period necessary for the purpose described in this agreement and within the shortest time limit required by laws and regulations. If we terminate the service or operation, we will promptly stop continuing to collect users’ personal information. At the same time, we will send notice to users in advance under the requirements of relevant laws and regulations, and delete users’ personal information after terminating the service or operation. Or anonymized processing, except as otherwise provided by laws, regulations or regulatory authorities.
+
+5.2 The personal information collected and generated during our operations within the territory of the People's Republic of China is stored in the territory of China, except in the following circumstances:
+
+    (1) Obtain the user's prior consent/permission;
+
+    (2) The express provisions of laws and regulations;
+
+    (3) The products and services used by users involve cross-border, and we need to provide user information overseas.
+
+
+6. Personal information protection measures
+
+6.1 Data confidentiality measures we take
+
+     6.1.1 The user knows and understands that Internet transmission or electronic storage methods are not 100% secure. We will make reasonable efforts to ensure data security. However, there may still be user data being stolen, illegally possessed or abused and causing personal damage to the user. The user voluntarily assumes the risk of loss of property and reputation.
+
+     6.1.2 We will adopt common, reasonable and standard security measures in the industry to protect the security and confidentiality of the information we store. Including but not limited to: firewalls and data backup measures; restrictions on access to the data center; encryption of the identifying information of the mobile terminal, etc.
+
+     6.1.3 We have established a sound data security management system, including hierarchical classification of user information, encrypted storage, data access authority division, designated internal data management systems and operating procedures, and strict procedures for data acquisition, use, and destruction Requirement to avoid illegal use of user privacy data.
+
+6.2 Emergency response and early warning
+
+     6.2.1 In the unfortunate event of a personal information security incident, we will promptly inform users of the basic situation and possible impact of the security incident through notifications in the platform/contact information reserved by the user, etc., in accordance with the requirements of laws and regulations, and what we have taken or will Emergency response and other relevant disposal measures taken, remedial measures for users, etc. If it is difficult to inform the subjects of personal information one by one, we will adopt a reasonable and effective way to issue announcements and actively report the handling of personal information security incidents to the relevant regulatory authorities.
+
+     6.2.2 If the user finds that the user's personal information is leaked, please contact us immediately so that we can take appropriate measures in time.
+
+
+7. Protection of minors
+
+We attach great importance to the protection of the personal information of minors. If the user is a minor under the age of 18, before using our game products or services, the user should obtain the consent of the parent or legal guardian in advance and submit a valid identity certificate and a written consent certificate from the parent or legal guardian. If the user is the guardian of a minor, please contact us if you have any questions about the personal information of the minor under the supervision of the user. If the user's own information is used by his minor children due to the user's reasons, the relevant legal consequences shall be borne by the user. When we collect and process the personal information of children under the age of 14, we will also comply with the "Our Privacy Policy (for children)".
+
+
+8. Disclaimer
+
+In addition to the circumstances stipulated in this agreement, we do not need to bear any responsibility for the following circumstances:
+
+8.1 Because the user informs others of the user account and password, the user conducts virtual item and prop transactions through a trading platform that is not approved by us, the user does not keep his password or shares our game account, game role with others, the user uses third-party software or Any other leakage of personal information that is not caused by our fault;
+
+8.2 Any impact caused by hacker attacks, computer virus intrusion or attacks, technical adjustments of the telecommunications sector, temporary closures due to government control, and third-party reasons (including force majeure, such as international export backbone links and international export telecommunications provision Failure, fire, flood, lightning strike, earthquake, flood, typhoon, tornado, volcanic eruption, plague and infectious disease epidemic, strike, war or violent act or similar events on the business side) and other user personal information not caused by our fault Information leakage, loss, theft or tampering, etc., as well as any losses caused to users and third parties;
+
+8.3 The leakage of the user's personal information caused by other websites linked to us and/or its affiliates and any legal disputes and consequences arising therefrom;
+
+8.4 Any individual user, including minor users, provides us with incorrect, incomplete, or false information that causes failure to pass the certification, unable to use our products and services normally, or suffer any other losses.
+
+
+9. User information access, correction, deletion and change of authorization scope
+
+9.1 Users can access the user's personal information through the settings in the service or our guidelines, and perform operations such as inquiries, corrections, supplements, deletions, and changes to the authorization scope on their own in accordance with our management methods and guidelines.
+
+9.2 When the user inquires, corrects, supplements, deletes, the aforementioned information or changes the scope of authorization, we may require the user to complete identity authentication to protect the security of the user account and personal information.
+
+9.3 If the user corrects or deletes related information or changes the scope of authorization, we are unable to provide services normally, and we shall not be liable for any inconvenience and loss arising therefrom.
+
+9.4 If users continue to use the services we provide, we will re-collect user information in order to be able to provide services normally.
+
+
+X. User account cancellation
+
+10.1 The user's service account may be cancelled or deleted if the conditions stipulated in our user service agreement and relevant national laws and regulations are met.
+
+10.2 When a user decides not to use any of the services we provide, he can log out or delete his account through the settings in the service or our instructions.
+
+10.3 We will delete the information in the account in a timely manner after the user cancels the account or delete or anonymize it in accordance with the agreement of the service agreement.
+
+10.4 The user is very clear and clear that after the account is cancelled, the information in the account can no longer be restored, and we will not bear any responsibility for the inconvenience and loss caused by this.
+
+
+11. Complaints and feedback
+
+If you have any questions, comments or suggestions about this privacy agreement, you can send an email or phone call through our customer service mailbox: or consult, appeal or report to us through the information provided by the official customer service, and the user should provide us with corresponding evidence materials at the same time . After we receive the user materials, in principle, we will reply to the handling comments or results within 15 days. If there are special circumstances that need to be extended, our specific processing time shall prevail (if there are special circumstances, we will notify the user separately). If you are dissatisfied with our response, especially our personal information processing behavior has harmed your legitimate rights and interests, you can also deal with it in accordance with the "User Registration Service Agreement".
+
+
+12. Scope of application
+
+This agreement applies to all our services. However, some services have their own specific privacy guidelines/statements, and the specific privacy guidelines/statements more specifically explain how we handle user information in the service. If there is any inconsistency between this agreement and the privacy guidelines/statements of specific services, please refer to the specific privacy guidelines/statements.
+
+
+13. Change
+
+If there is any substantial change in the content of this privacy agreement, we will post the change in the relevant location on the official website. If the user does not agree with the changed content, the user can choose to stop using our products or services and cancel the user account; for example, the user Continuing to use our products or services means that the user agrees and accepts the constraints of the revised "User Privacy Agreement".
+
+
+
+Privacy Policy (for children)
+
+
+For minors under the age of thirteen ("children"), we collect and process their personal information in addition to the provisions of the "Privacy Agreement" and also comply with the following terms. If the following terms are inconsistent with the "Privacy Agreement", the following terms shall prevail:
+
+1. The contact information of the person in charge of our children's personal information protection is that the child guardian can actively contact us through this contact method and exercise the rights granted to the child guardian by the following clauses.
+
+2. Before we collect, use, transfer, and disclose children’s personal information, we will notify the child guardian in advance through the child’s guardian’s personal contact information stored when registering an account for the child, and collect, use, and use the child’s information only after obtaining their consent. Transfer and disclosure.
+
+3. After receiving the above notice, the child guardian can refuse. If the guardian refuses to collect, use, transfer, and disclose children's personal information in accordance with the "Privacy Agreement", we will not collect, use, transfer, or disclose children's information, but , Which may mean that children cannot fully use part of our products. If the guardian refuses that the personal information of the child that we use is the basic information necessary to run our product (child's name, ID number, mobile device number, device identification code), the child will not be able to use our product at all.
+
+4. When our staff access children's personal information, they shall be approved by the person in charge of children's personal information protection or their authorized management personnel, record the access, and take technical measures to avoid illegal copying and downloading of children's personal information.
+
+5. The child guardian exercises all the rights of the child under the "Privacy Policy" on behalf of the child, including accessing, controlling, and deleting the child's personal information and changing the scope of authorization and consent of the child's information.
+
+6. Child guardians can withdraw our authorization to collect, use, transfer, and disclose children's personal information, but this may mean that children cannot fully use some of the functions of our products. If the guardian withdraws the authorization of the child’s personal information which is the basic information (child’s name, ID number, mobile device number, device identification code) necessary to operate our product, the child will not be able to use our product at all.
+
+7. When we transfer children's personal information to a third party, we will conduct a security assessment on our own or entrust a third-party organization.
+
+8. If we stop operating products or services, we will immediately stop collecting children’s personal information, delete the children’s personal information we hold, and promptly notify the child guardian of the notice of cessation of operation.
